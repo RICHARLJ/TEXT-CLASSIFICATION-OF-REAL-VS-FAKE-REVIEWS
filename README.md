@@ -1,2 +1,3 @@
 # TEXT-CLASSIFICATION-OF-REAL-VS-FAKE-REVIEWS
-amazon review classification
+It is a nature language processing project
+It aims to achieve amazon review classification
